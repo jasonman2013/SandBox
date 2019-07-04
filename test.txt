@@ -3,3 +3,4 @@
 3.master add a item
 4.dzh add a item
 5.dzh add 2 item
+6.dzh add 3 item`
