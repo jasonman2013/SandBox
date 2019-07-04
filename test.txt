@@ -2,3 +2,4 @@
 2.测试多租户
 3.master add a item
 4.dzh add a item
+5.dzh add 2 item
